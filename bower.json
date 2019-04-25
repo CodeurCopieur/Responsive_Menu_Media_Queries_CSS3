@@ -1,0 +1,20 @@
+{
+  "name": "menu_responsive_css3",
+  "authors": [
+    "codwerk <louis_widdy@live.fr>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "Font-Awesome": "font-awesome-5#^5.8.1"
+  }
+}
